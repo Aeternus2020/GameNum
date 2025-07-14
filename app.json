@@ -1,29 +1,47 @@
 {
   "expo": {
-    "name": "GameNum",
-    "slug": "GameNum",
-    "version": "1.0.0",
-    "orientation": "portrait",
+    "name": "GameNumPro",
+    "slug": "gamenumpro",
+    "version": "1.0.1",
+    "orientation": "default",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "newArchEnabled": true,
     "splash": {
-      "image": "./assets/splash-icon.png",
+      "image": "./assets/icon.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "icon": "./assets/iconIOS.png",
+      "buildNumber": "3",
+      "bundleIdentifier": "com.aeternus.GuessNumberIOS",
+      "infoPlist": {
+        "ITSAppUsesNonExemptEncryption": false
+      }
     },
     "android": {
+      "icon": "./assets/icon.png",
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
+        "foregroundImage": "./assets/icon.png",
         "backgroundColor": "#ffffff"
       },
-      "edgeToEdgeEnabled": true
+      "edgeToEdgeEnabled": true,
+      "package": "com.aeternus.GameNum",
+      "versionCode": 3
     },
     "web": {
-      "favicon": "./assets/favicon.png"
+      "favicon": "./assets/icon.png"
+    },
+    "plugins": [
+      "expo-font",
+      "expo-localization"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "67f08d85-72cd-4e5d-9dea-d1ff23798e91"
+      }
     }
   }
 }

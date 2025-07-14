@@ -1,0 +1,17 @@
+{
+  "guessNumber": "Вгадай число",
+  "enterNumber": "Введи своє число",
+  "reset": "Скинути",
+  "confirm": "Ок",
+  "invalidNumber": "Число має бути від 1 до 99",
+  "dontLie": "Не бреши! Ти знаєш, що це неправильно...",
+  "ok": "ОК",
+  "summaryPrefix": "Твоему телефону знадобилось",
+  "summarySuffix": "ходів, щоб вгадати число",
+  "gameOver": "ГРА ЗАВЕРШЕНА!",
+  "newGame": "Почати нову гру",
+  "buttonLower": "Менше",
+  "buttonHigher": "Більше",
+  "opponentGuess": "Хід суперника",
+  "guessHint": "Твоє число більше чи менше?"
+}

@@ -1,0 +1,17 @@
+{
+  "guessNumber": "Odgadnij liczbę",
+  "enterNumber": "Wpisz swoją liczbę",
+  "reset": "Resetuj",
+  "confirm": "Ok",
+  "invalidNumber": "Liczba musi być od 1 do 99",
+  "dontLie": "Nie kłam! Wiesz, że to nieprawda...",
+  "ok": "OK",
+  "summaryPrefix": "Twój telefon potrzebował",
+  "summarySuffix": "ruchów, aby odgadnąć liczbę",
+  "gameOver": "KONIEC GRY!",
+  "newGame": "Zacznij nową grę",
+  "buttonLower": "Mniej",
+  "buttonHigher": "Więcej",
+  "opponentGuess": "Ruch przeciwnika",
+  "guessHint": "Czy Twoja liczba jest większa czy mniejsza?"
+}

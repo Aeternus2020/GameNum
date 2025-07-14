@@ -1,0 +1,17 @@
+{
+  "guessNumber": "Guess number",
+  "enterNumber": "Enter your number",
+  "reset": "Reset",
+  "confirm": "Confirm",
+  "invalidNumber": "Number must be between 1 and 99",
+  "dontLie": "Don't lie! You know that’s wrong...",
+  "ok": "OK",
+  "summaryPrefix": "Your phone needed",
+  "summarySuffix": "rounds to guess the number",
+  "gameOver": "GAME OVER!",
+  "newGame": "Start new game",
+  "buttonLower": "Lower",
+  "buttonHigher": "Higher",
+  "opponentGuess": "Opponent’s guess",
+  "guessHint": "Is your number higher or lower?"
+}
